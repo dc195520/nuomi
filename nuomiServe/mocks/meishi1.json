@@ -1,0 +1,570 @@
+[
+        {
+            "shopId":"nuom001",
+            "shopimg":"http://localhost:3000/image/fj_msImg1.png",
+            "shopName":"东来顺(高新店)",
+            "shopDistant":"230",
+            "shopPrice":"84",
+            "shopPosi":"枫林绿洲",
+            "shopActivity":"http://localhost:3000/image/k_tuan.png",
+            "shopActivityName":"425元购东来顺储值卡",
+            "shopEvaluation":"宾至如归的体验",
+            "ProductDetails":
+                {
+                    "goodsId":"nuom0001",
+                    "goodsImg":"../../img1.jpg",
+                    "goodsName":"东来顺(高新店)",
+                    "goodsPrice":"84",
+                    "goodsAddress":"南二环东段22号(近东二环)",
+                    "preferentialOneImg":"img/fu.jpg",
+                    "preferentialOne":[
+                        {
+                            "one1Id":"nuom000011",
+                            "one1Img":" ",
+                            "one1Name":"9.5折",
+                            "one1Price":"",
+                            "one1Del":"",
+                            "one1UseTime":"周一至周日  10:00-次日00:00可用"
+                        },
+                        {
+                            "one2Id":"nuom000012",
+                            "one2Img":" ",
+                            "one2Name":" ",
+                            "one2Price":" ",
+                            "one2Del":" ",
+                            "one2UseTime":""
+                        }
+                    ],
+                    "preferentialTwoImg":"img/ka.jpg",
+                    "preferentialTwo":[
+                        {
+                            "two1Id":"nuom000021",
+                            "two1Img":" ",
+                            "two1Name":"东来顺储值卡",
+                            "two1Price":"425",
+                            "two1Del":"500",
+                            "one1UseTime":""
+                        },
+                        {
+                            "two2Id":"nuom000022",
+                            "two2Img":" ",
+                            "two2Name":" ",
+                            "two2Price":" ",
+                            "two2Del":" ",
+                            "one1UseTime":""
+                        }
+                    ],
+                    " recommendFood":[
+                        {
+                            "recommendFoodsId":"recommendFood001",
+                            "recommendFoodsImg":"../IMG/1.jpg",
+                            "recommendFoodName":"香辣"
+                        },
+                        {
+                            "recommendFoodsId":"recommendFood002",
+                            "recommendFoodsImg":"../IMG/1.jpg",
+                            "recommendFoodName":"青花椒"
+                        },
+                        {
+                            "recommendFoodsId":"recommendFood003",
+                            "recommendFoodsImg":"../IMG/1.jpg",
+                            "recommendFoodName":"西蓝花"
+                        },
+                        {
+                            "recommendFoodsId":"recommendFood004",
+                            "recommendFoodsImg":"../IMG/1.jpg",
+                            "recommendFoodName":"菠菜"
+                        },
+                        {
+                            "recommendFoodsId":"recommendFood005",
+                            "recommendFoodsImg":"../IMG/1.jpg",
+                            "recommendFoodName":"木耳"
+                        }
+                    ],
+                    "recommendFoodNameList":["奶冻卷","黄金手撕包","手撕包","养生黑芝麻软包",
+                        "提拉蛋糕","奶酪一口酥","草莓洛丽塔","法式玉米三明治"
+                    ],
+                    "businessPhoto":[
+                        {
+                            "businessPhotoId":"businessPhoto001",
+                            "businessImg":"img/1.jpg",
+                            "businessPhotoName":"推荐菜",
+                            "businessPhotoNumber":29
+                        },
+                        {
+                            "businessPhotoId":"businessPhoto002",
+                            "businessImg":"img/2.jpg",
+                            "businessPhotoName":"菜品",
+                            "businessPhotoNumber":17
+                        },
+                        {
+                            "businessPhotoId":"businessPhoto003",
+                            "businessImg":"img/3.jpg",
+                            "businessPhotoName":"全部",
+                            "businessPhotoNumber":46
+                        }
+                    ]
+
+                }
+        },
+        {
+            "shopId":"nuom002",
+            "shopimg":"http://localhost:3000/image/fj_msImg2.png",
+            "shopName":"顺峰(南二环店)",
+            "shopDistant":"530",
+            "shopPrice":"185",
+            "shopPosi":"二环东段",
+            "shopActivity":"http://localhost:3000/image/k_tuan.png",
+            "ActivityName":"100元购顺峰到店支付",
+            "shopEvaluation":"服务一流体验好",
+            "ProductDetails":
+                {
+                    "goodsId":"nuom0002",
+                    "goodsImg":[
+                        "../../img1.jpg",
+                        "../../img1.jpg",
+                        "../../img1.jpg",
+                        "../../img1.jpg"
+                    ],
+                    "goodsName":"顺峰(南二环店)",
+                    "goodsPrice":"185",
+                    "goodsAddress":"南二环东段22号(近东二环)",
+                    "preferentialOneImg":"img/fu.jpg",
+                    "preferentialOne":[
+                        {
+                            "one1Id":"nuom000011",
+                            "one1Img":" ",
+                            "one1Name":"在线支付",
+                            "one1Price":"",
+                            "one1Del":"",
+                            "one1UseTime":"商家营业时间均可用"
+                        },
+                        {
+                            "one2Id":"nuom000012",
+                            "one2Img":" ",
+                            "one2Name":" ",
+                            "one2Price":" ",
+                            "one2Del":" ",
+                            "one2UseTime":""
+                        }
+                    ],
+                    "preferentialTwoImg":"img/tuan.jpg",
+                    "preferentialTwo":[
+                        {
+                            "two1Id":"nuom000021",
+                            "two1Img":"img/1.jpg",
+                            "two1Name":"顺峰豪华包间10人餐",
+                            "two1Price":"2580",
+                            "two1Del":"5600",
+                            "two1UseTime":""
+                        },
+                        {
+                            "two2Id":"nuom000022",
+                            "two2Img":"img/2.jpg",
+                            "two2Name":"顺峰豪华包间6人餐",
+                            "two2Price":"1680",
+                            "two2Del":"3738",
+                            "two2UseTime":""
+                        }
+                    ],
+                    " recommendFood":" ",
+                    "recommendFoodNameList":[ ],
+                    "businessPhoto":[
+                        {
+                            "businessPhotoId":"businessPhoto001",
+                            "businessImg":"img/1.jpg",
+                            "businessPhotoName":"环境",
+                            "businessPhotoNumber":27
+                        },
+                        {
+                            "businessPhotoId":"businessPhoto002",
+                            "businessImg":"img/2.jpg",
+                            "businessPhotoName":"菜品",
+                            "businessPhotoNumber":16
+                        },
+                        {
+                            "businessPhotoId":"businessPhoto003",
+                            "businessImg":"img/3.jpg",
+                            "businessPhotoName":"推荐菜",
+                            "businessPhotoNumber":4
+                        }
+                    ]
+
+                }
+        },
+        {
+            "shopId":"nuom003",
+            "shopimg":"http://localhost:3000/image/fj_msImg3.png",
+            "shopName":"苏浙会馆(大庆路店)",
+            "shopDistant":"633",
+            "shopPrice":"103",
+            "shopPosi":"桃园路",
+            "shopActivity":"http://localhost:3000/image/k_tuan.png",
+            "shopActivityName":"950元购苏浙会馆1000元储值卡",
+            "shopEvaluation":"最大实惠分量多",
+            "ProductDetails":
+                {
+                    "goodsId":"nuom0003",
+                    "goodsImg":[
+                        "../../img1.jpg",
+                        "../../img1.jpg",
+                        "../../img1.jpg",
+                        "../../img1.jpg"
+                    ],
+                    "goodsName":"苏浙会馆(大庆路店)",
+                    "goodsPrice":"103",
+                    "goodsAddress":"大庆路136号西二环立交西南角（大土门村56排45号）",
+                    "preferentialOneImg":"img/tuan.jpg",
+                    "preferentialOne":[
+                        {
+                            "one1Id":"nuom000011",
+                            "one1Img":"img/1.jpg",
+                            "one1Name":"苏浙会馆商务10人餐",
+                            "one1Price":"1988",
+                            "one1Del":"4694",
+                            "one1UseTime":" "
+                        },
+                        {
+                            "one2Id":"nuom000012",
+                            "one2Img":"img/1.jpg",
+                            "one2Name":"苏浙会馆商务10人餐",
+                            "one2Price":" ",
+                            "one2Del":" ",
+                            "one2UseTime":""
+                        }
+                    ],
+                    "preferentialTwoImg":"img/ka.jpg",
+                    "preferentialTwo":[
+                        {
+                            "two1Id":"nuom000021",
+                            "two1Img":"",
+                            "two1Name":"苏浙会馆1000元储值卡",
+                            "two1Price":"950",
+                            "two1Del":"1000",
+                            "one1UseTime":""
+                        },
+                        {
+                            "two2Id":"nuom000022",
+                            "two2Img":"",
+                            "two2Name":"",
+                            "two2Price":"",
+                            "two2Del":"",
+                            "one1UseTime":""
+                        }
+                    ],
+                    " recommendFood":[
+                        {
+                            "recommendFoodsId":"recommendFood001",
+                            "recommendFoodsImg":"../IMG/1.jpg",
+                            "recommendFoodName":"香辣"
+                        },
+                        {
+                            "recommendFoodsId":"recommendFood002",
+                            "recommendFoodsImg":"../IMG/1.jpg",
+                            "recommendFoodName":"青花椒"
+                        },
+                        {
+                            "recommendFoodsId":"recommendFood003",
+                            "recommendFoodsImg":"../IMG/1.jpg",
+                            "recommendFoodName":"西蓝花"
+                        },
+                        {
+                            "recommendFoodsId":"recommendFood004",
+                            "recommendFoodsImg":"../IMG/1.jpg",
+                            "recommendFoodName":"菠菜"
+                        },
+                        {
+                            "recommendFoodsId":"recommendFood005",
+                            "recommendFoodsImg":"../IMG/1.jpg",
+                            "recommendFoodName":"木耳"
+                        }
+                    ],
+                    "recommendFoodNameList":["炝拌苦菊","番茄鸡蛋汤","江南秘制熏鱼干","酸汤面",
+                        "天目湖鱼头","清炒龙虾二","老醋海蜇","狮子头","生煎包","锅包肉","麻辣鳕鱼"
+                    ],
+                    "businessPhoto":[
+                        {
+                            "businessPhotoId":"businessPhoto001",
+                            "businessImg":"img/1.jpg",
+                            "businessPhotoName":"环境",
+                            "businessPhotoNumber":13
+                        },
+                        {
+                            "businessPhotoId":"businessPhoto002",
+                            "businessImg":"img/2.jpg",
+                            "businessPhotoName":"菜品",
+                            "businessPhotoNumber":24
+                        },
+                        {
+                            "businessPhotoId":"businessPhoto003",
+                            "businessImg":"img/3.jpg",
+                            "businessPhotoName":"推荐菜",
+                            "businessPhotoNumber":12
+                        }
+                    ]
+
+                }
+        },
+        {
+            "shopId":"nuom004",
+            "shopimg":"http://localhost:3000/image/fj_msImg4.png",
+            "shopName":"春发生饭店(南院门店)",
+            "shopDistant":"899",
+            "shopPrice":"45",
+            "shopPosi":"广济街",
+            "shopActivity":"http://localhost:3000/image/k_tuan.png",
+            "shopActivityName":"42.5元购春发生饭店50元代金券",
+            "shopEvaluation":"品类丰富样样齐全",
+            "ProductDetails":
+                {
+                    "goodsId":"nuom0004",
+                    "goodsImg":[
+                        "../../img1.jpg",
+                        "../../img1.jpg",
+                        "../../img1.jpg",
+                        "../../img1.jpg"
+                    ],
+                    "goodsName":"春发生饭店(南院门店)",
+                    "goodsPrice":"45",
+                    "goodsAddress":"南院门20号",
+                    "preferentialOneImg":"img/quan.jpg",
+                    "preferentialOne":[
+                        {
+                            "one1Id":"nuom000011",
+                            "one1Img":"",
+                            "one1Name":"春发生饭店50元代金券",
+                            "one1Price":"42.5",
+                            "one1Del":"50",
+                            "one1UseTime":" "
+                        },
+                        {
+                            "one2Id":"nuom000012",
+                            "one2Img":"",
+                            "one2Name":"",
+                            "one2Price":" ",
+                            "one2Del":" ",
+                            "one2UseTime":""
+                        }
+                    ],
+                    "preferentialTwoImg":"",
+                    "preferentialTwo":[
+                        {
+                            "two1Id":"nuom000021",
+                            "two1Img":"",
+                            "two1Name":"",
+                            "two1Price":"",
+                            "two1Del":"",
+                            "one1UseTime":""
+                        },
+                        {
+                            "two2Id":"nuom000022",
+                            "two2Img":"",
+                            "two2Name":"",
+                            "two2Price":"",
+                            "two2Del":"",
+                            "one1UseTime":""
+                        }
+                    ],
+                    "recommendFood":[
+                        {
+                            "recommendFoodsId":"recommendFood001",
+                            "recommendFoodsImg":"../IMG/1.jpg",
+                            "recommendFoodName":"香辣"
+                        },
+                        {
+                            "recommendFoodsId":"recommendFood002",
+                            "recommendFoodsImg":"../IMG/1.jpg",
+                            "recommendFoodName":"青花椒"
+                        },
+                        {
+                            "recommendFoodsId":"recommendFood003",
+                            "recommendFoodsImg":"../IMG/1.jpg",
+                            "recommendFoodName":"西蓝花"
+                        },
+                        {
+                            "recommendFoodsId":"recommendFood004",
+                            "recommendFoodsImg":"../IMG/1.jpg",
+                            "recommendFoodName":"菠菜"
+                        },
+                        {
+                            "recommendFoodsId":"recommendFood005",
+                            "recommendFoodsImg":"../IMG/1.jpg",
+                            "recommendFoodName":"木耳"
+                        }
+                    ],
+                    "recommendFoodNameList":["羊肉泡馍","梆梆肉","鸡片葫芦头","特制葫芦头",
+                        "火爆腰花","油泼葫芦头","尖椒肥肠","宁汁酸梅汤","鱼香肉丝"
+                    ],
+                    "businessPhoto":[
+                        {
+                            "businessPhotoId":"businessPhoto001",
+                            "businessImg":"img/1.jpg",
+                            "businessPhotoName":"环境",
+                            "businessPhotoNumber":4
+                        },
+                        {
+                            "businessPhotoId":"businessPhoto002",
+                            "businessImg":"img/2.jpg",
+                            "businessPhotoName":"菜品",
+                            "businessPhotoNumber":30
+                        },
+                        {
+                            "businessPhotoId":"businessPhoto003",
+                            "businessImg":"img/3.jpg",
+                            "businessPhotoName":"推荐菜",
+                            "businessPhotoNumber":14
+                        }
+                    ]
+
+                }
+        },
+        {
+            "shopId":"nuom005",
+            "shopimg":"http://localhost:3000/image/fj_msImg1.png",
+            "shopName":"一尊皇牛(西关正街店)",
+            "shopDistant":"40",
+            "shopPrice":"68",
+            "shopPosi":"西稍门",
+            "shopActivity":"http://localhost:3000/image/k_tuan.png",
+            "shopActivityName":"75元购一尊皇牛100元代金券",
+            "shopEvaluation":"物美价廉的超值商家",
+            "ProductDetails":
+                {
+                    "goodsId":"nuom0005",
+                    "goodsImg":[
+                        "../../img1.jpg",
+                        "../../img1.jpg",
+                        "../../img1.jpg",
+                        "../../img1.jpg"
+                    ],
+                    "goodsName":"一尊皇牛(西关正街店)",
+                    "goodsPrice":"68",
+                    "goodsAddress":"西关正街49-51号大槐树北（近西关派出所）",
+                    "preferentialOneImg":"img/quan.jpg",
+                    "preferentialOne":[
+                        {
+                            "one1Id":"nuom000011",
+                            "one1Img":" ",
+                            "one1Name":"一尊皇牛100元代金券",
+                            "one1Price":"75",
+                            "one1Del":"100",
+                            "one1UseTime":""
+                        },
+                        {
+                            "one2Id":"nuom000012",
+                            "one2Img":"",
+                            "one2Name":"一尊皇牛50元代金券",
+                            "one2Price":"39.8",
+                            "one2Del":"50",
+                            "one2UseTime":""
+                        }
+                    ],
+                    "preferentialTwoImg":"",
+                    "preferentialTwo":[
+                        {
+                            "two1Id":"nuom000021",
+                            "two1Img":"",
+                            "two1Name":"",
+                            "two1Price":"",
+                            "two1Del":"",
+                            "one1UseTime":""
+                        },
+                        {
+                            "two2Id":"nuom000022",
+                            "two2Img":" ",
+                            "two2Name":" ",
+                            "two2Price":" ",
+                            "two2Del":" ",
+                            "one1UseTime":""
+                        }
+                    ],
+                    "recommendFood":[
+                        {
+                            "recommendFoodsId":"recommendFood001",
+                            "recommendFoodsImg":"../IMG/1.jpg",
+                            "recommendFoodName":"香辣"
+                        },
+                        {
+                            "recommendFoodsId":"recommendFood002",
+                            "recommendFoodsImg":"../IMG/1.jpg",
+                            "recommendFoodName":"青花椒"
+                        },
+                        {
+                            "recommendFoodsId":"recommendFood003",
+                            "recommendFoodsImg":"../IMG/1.jpg",
+                            "recommendFoodName":"西蓝花"
+                        },
+                        {
+                            "recommendFoodsId":"recommendFood004",
+                            "recommendFoodsImg":"../IMG/1.jpg",
+                            "recommendFoodName":"菠菜"
+                        },
+                        {
+                            "recommendFoodsId":"recommendFood005",
+                            "recommendFoodsImg":"../IMG/1.jpg",
+                            "recommendFoodName":"木耳"
+                        }
+                    ],
+                    "recommendFoodNameList":["虾滑","香菇","小龙虾","牛肉羊肉",
+                        "南瓜饼","清汤锅","豆制品组合","功夫片片鱼","鲜鱼滑","法式玉米三明治"
+                    ],
+                    "businessPhoto":[
+                        {
+                            "businessPhotoId":"businessPhoto001",
+                            "businessImg":"img/1.jpg",
+                            "businessPhotoName":"菜品",
+                            "businessPhotoNumber":6
+                        },
+                        {
+                            "businessPhotoId":"businessPhoto002",
+                            "businessImg":"img/2.jpg",
+                            "businessPhotoName":"推荐菜",
+                            "businessPhotoNumber":23
+                        },
+                        {
+                            "businessPhotoId":"businessPhoto003",
+                            "businessImg":"img/3.jpg",
+                            "businessPhotoName":"全部",
+                            "businessPhotoNumber":29
+                        }
+                    ]
+
+                }
+        }
+
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
